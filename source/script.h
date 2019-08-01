@@ -23,7 +23,7 @@ GNU General Public License for more details.
 #include "keyboard_mouse.h" // for modLR_type
 #include "var.h" // for a script's variables.
 #include "WinGroup.h" // for a script's Window Groups.
-#include "Util.h" // for FileTimeToYYYYMMDD(), strlcpy()
+#include "util.h" // for FileTimeToYYYYMMDD(), strlcpy()
 #include "resources/resource.h"  // For tray icon.
 #include "script_object.h"
 #include "Debugger.h"
